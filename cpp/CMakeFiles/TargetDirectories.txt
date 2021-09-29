@@ -1,3 +1,0 @@
-/home/student/Downloads/SimpleRayTrace/cpp/CMakeFiles/rebuild_cache.dir
-/home/student/Downloads/SimpleRayTrace/cpp/CMakeFiles/edit_cache.dir
-/home/student/Downloads/SimpleRayTrace/cpp/CMakeFiles/example_001.dir
